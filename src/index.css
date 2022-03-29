@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.nav-links:hover {
+  background-color:white; /*will change background-color of element on hover */
+  color: white; /*will change color of text within the element on hover */
+  }
+  .nav-links {
+display: inline-block;
+height: 20px;
+background-color:white;/*will change background-color of element */
+color: green; /*will change color of text within the element */
+}
